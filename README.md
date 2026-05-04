@@ -50,3 +50,4 @@ agentic project work
 GitHub repo fetching function 
 deep learning done
 AlexNet and ResNet
+Agentic ai 
