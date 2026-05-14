@@ -52,3 +52,4 @@ deep learning done
 AlexNet and ResNet
 langgraph nodes defined
 conditional edges 
+tfidf vectorizer
