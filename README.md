@@ -1,4 +1,4 @@
-ok# TaskFlow
+huok# TaskFlow
 
 A lightweight REST API for managing tasks, built with Flask.
 
@@ -53,3 +53,4 @@ AlexNet and ResNet
 langgraph nodes defined
 conditional edges 
 tfidf vectorizer
+lstm
