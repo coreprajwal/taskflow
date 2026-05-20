@@ -54,3 +54,4 @@ langgraph nodes defined
 conditional edges 
 tfidf vectorizer
 lstm
+sql
