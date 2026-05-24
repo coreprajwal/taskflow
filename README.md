@@ -55,3 +55,4 @@ conditional edges
 tfidf vectorizer
 lstm
 sql
+Azure data factory 
